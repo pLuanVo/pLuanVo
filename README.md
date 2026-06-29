@@ -24,6 +24,7 @@ Currently **open to remote opportunities** in DevOps, SRE, and Platform Engineer
 
 | Project | Stack |
 |---------|-------|
+| [Azure AI Agent PaaS](https://github.com/pLuanVo/azure-ai-agent-paas) | Bicep, Container Apps, Azure OpenAI, LangGraph, Cosmos DB, Service Bus, Elasticsearch, Azure DevOps |
 | [SRE EKS Observability](https://github.com/pLuanVo/sre-eks-observability-demo) | Pulumi, EKS, VictoriaMetrics, OTel, Vector, Grafana, FastMCP, GitHub Actions OIDC |
 | [GKE SRE + MCP Observability](https://github.com/pLuanVo/sre-gke-mcp-observability) | Terraform, GKE, Prometheus, ArgoCD, MCP |
 | [AKS DevSecOps Monitor](https://github.com/pLuanVo/aks-devsecops-monitor-demo) | Terraform, AKS, Azure Monitor, Defender, Policy |
